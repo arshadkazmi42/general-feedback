@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="-1dp"
+        android:animateLayoutChanges="true"
+        android:background="@android:color/white">
+
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/appBarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <include layout="@layout/global_toolbar_layout" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <RelativeLayout
+            android:layout_below="@id/appBarLayout"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.arshad.feedback.util.widgets.MontRegularTextView
+                android:id="@+id/tvThankYou"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thank you"
+                android:textSize="30dp"
+                android:layout_centerInParent="true"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                />
+
+            <com.arshad.feedback.util.widgets.MontLightTextView
+                android:id="@+id/tvAddNewUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Go back to home screen"
+                android:layout_below="@+id/tvThankYou"
+                android:gravity="center"
+                android:padding="10dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorAccent"
+                android:textAllCaps="true"
+                />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <com.arshad.feedback.util.widgets.MontRegularTextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Are you sure?"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp" />
+
+    <com.arshad.feedback.util.widgets.MontLightTextView
+        android:id="@+id/tvMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="15dp"
+        android:gravity="center"
+        android:text="Clearing will clear Feedback and Questions data and cannot be recovered back"
+        android:textSize="12sp"
+        android:textAllCaps="true"
+        />
+
+    <com.arshad.feedback.util.widgets.MontRegularTextView
+        android:id="@+id/tvClearFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_below="@+id/tvMessage"
+        android:background="@drawable/bg_border_primary_selector"
+        android:gravity="center"
+        android:paddingBottom="15dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="15dp"
+        android:text="Clear Feedback"
+        android:textColor="@color/colorPrimary"
+        android:textAllCaps="true"
+        />
+
+    <com.arshad.feedback.util.widgets.MontRegularTextView
+        android:id="@+id/tvClearAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/tvClearFeedback"
+        android:background="@drawable/bg_border_primary_selector"
+        android:gravity="center"
+        android:paddingBottom="15dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="15dp"
+        android:text="Clear All"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary" />
+
+    <com.arshad.feedback.util.widgets.MontRegularTextView
+        android:id="@+id/tvClose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:background="@drawable/bg_border_primary_selector"
+        android:gravity="center"
+        android:paddingBottom="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="15dp"
+        android:text="Close"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/tvClearAll"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>

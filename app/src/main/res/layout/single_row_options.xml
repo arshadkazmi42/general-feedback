@@ -1,0 +1,17 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="7dp"
+    android:orientation="horizontal"
+    android:gravity="center"
+    >
+
+    <com.arshad.feedback.util.widgets.MonteRegularRadioButton
+        android:id="@+id/cbOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="OPTION"
+        android:textAllCaps="true"
+        />
+
+</LinearLayout>

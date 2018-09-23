@@ -1,0 +1,27 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="7dp"
+    android:orientation="horizontal"
+    android:weightSum="8"
+    android:gravity="center"
+    >
+
+    <com.arshad.feedback.util.widgets.MontEditText
+        android:id="@+id/etOptions"
+        android:layout_width="0dp"
+        android:layout_weight="8"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etQuestion"
+        android:hint="Options"
+        />
+
+    <ImageView
+        android:id="@+id/ivAdd"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_2000px_ambox_plus"
+        />
+
+</LinearLayout>
