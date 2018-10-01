@@ -4,8 +4,9 @@
 
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.arshad.feedback"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="250"/></a></p>
 
-## General Feedback
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d36e50dd143d4616842556a8ec386090)](https://www.codacy.com/app/arshadkazmi42/general-feedback?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arshadkazmi42/general-feedback&amp;utm_campaign=Badge_Grade)
 
+## General Feedback
 General feedback app is a generic feedback app, which can take any number of multiple choice questions and those questions can be used to take feedbacks from people in the same app.
 
 It will also allow to export all the feedbacks to an excel sheet
