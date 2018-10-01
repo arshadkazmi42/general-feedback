@@ -26,6 +26,10 @@ _Follow these instructions to build and run the project.._
 * Add any number of questions
 * Export all feedback to excel
 
+## App
+<p align="center">
+    <img src="assets/app.gif" alt="app"/> <br>
+    </p>
 
 ## Contributing Guidelines
 
