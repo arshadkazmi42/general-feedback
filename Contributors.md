@@ -7,3 +7,4 @@
 - [Sankalp Chauhan](https://github.com/sankalpchauhan-me)
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Conor Mullin](https://github.com/easterncalculus)
+- [Lauren Van Sloun](https://github.com/Ashera138)
