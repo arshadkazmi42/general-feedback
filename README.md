@@ -29,14 +29,10 @@ _Follow these instructions to build and run the project.._
 * Export all feedback to excel
 
 ## Screenshots
-<div>
-   <img src="assets/Welcome_Screen.png" width="250"/>
+<div align="center">
+   <img src="assets/Welcome_Screen.png" width="250" hspace="20"/>
    <img src="assets/Add_question.png" width="250" hspace="20"/>
-   <img src="assets/User_info.png" width="250"/>
-   <img src="assets/Question_Screen_1.png" width="250" hspace="20"/>
-   <img src="assets/Question_Screen_2.png" width="250" />
-   <img src="assets/Thank_Message_Screen.png" width="250" hspace="20"/>
-   <img src="assets/Clear_feedback.png" width="250" hspace="20"/>
+   <img src="assets/User_info.png" width="250" hspace="20"/>
 </div>
 
 ## App
