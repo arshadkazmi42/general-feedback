@@ -8,3 +8,5 @@
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Conor Mullin](https://github.com/easterncalculus)
 - [Diego Bousfield](https://github.com/diegobousfield)
+- [Lauren Van Sloun](https://github.com/Ashera138)
+- [Rick Dunkin](https://github.com/rickdunkin)
