@@ -5,6 +5,7 @@
 - [Andela Denaro](https://github.com/andeladenaro)
 - [Casper Rysgaard](https://github.com/Crowton)
 - [Aakash Agarwal](https://github.com/aakash2602)
+- [Rishabh Gupta](https://github.com/rishu08)
 - [Sankalp Chauhan](https://github.com/sankalpchauhan-me)
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Conor Mullin](https://github.com/easterncalculus)
