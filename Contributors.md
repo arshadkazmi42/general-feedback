@@ -4,6 +4,7 @@
 - [Wilbred Anto](https://github.com/wilsantow)
 - [Andela Denaro](https://github.com/andeladenaro)
 - [Casper Rysgaard](https://github.com/Crowton)
+- [Bibek Luitel](https://github.com/bibekluitel)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Rishabh Gupta](https://github.com/rishu08)
 - [Sankalp Chauhan](https://github.com/sankalpchauhan-me)
