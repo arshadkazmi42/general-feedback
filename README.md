@@ -1,10 +1,13 @@
 <p align="center"><a href="https://github.com/arshadkazmi42/general-feedback"><img src="assets/logo.png" width="150"/></a></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d36e50dd143d4616842556a8ec386090)](https://www.codacy.com/app/arshadkazmi42/general-feedback?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arshadkazmi42/general-feedback&amp;utm_campaign=Badge_Grade)
+
 <h2 align="center"><b>General Feedback</b></h2>
 <h4 align="center">A generic feedback app, for doing bulk surveys offline.</h4>
 
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.arshad.feedback"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="250"/></a></p>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d36e50dd143d4616842556a8ec386090)](https://www.codacy.com/app/arshadkazmi42/general-feedback?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arshadkazmi42/general-feedback&amp;utm_campaign=Badge_Grade)
 
 ## General Feedback
 
