@@ -43,9 +43,3 @@ _Follow these instructions to build and run the project.._
 ## Contributing Guidelines
 
 Read the contributing guidelines [here](https://github.com/arshadkazmi42/general-feedback/blob/master/CONTRIBUTING.md)
-
-## Contributors
-
-Thank you to all the contributors who help in making this project better :raised_hands:
-
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/wilsantow"><img src="https://github.com/wilsantow.png" width="30" /></a><a href="https://github.com/sankalpchauhan-me"><img src="https://github.com/sankalpchauhan-me.png" width="30" /></a><a href="https://github.com/Balram02"><img src="https://github.com/Balram02.png" width="30" /></a><a href="https://github.com/andeladenaro"><img src="https://github.com/andeladenaro.png" width="30" /></a><a href="https://github.com/bibekluitel"><img src="https://github.com/bibekluitel.png" width="30" /></a><a href="https://github.com/blancasnz"><img src="https://github.com/blancasnz.png" width="30" /></a><a href="https://github.com/easterncalculus"><img src="https://github.com/easterncalculus.png" width="30" /></a><a href="https://github.com/Crowton"><img src="https://github.com/Crowton.png" width="30" /></a><a href="https://github.com/DiegoBousfield"><img src="https://github.com/DiegoBousfield.png" width="30" /></a><a href="https://github.com/Ashera138"><img src="https://github.com/Ashera138.png" width="30" /></a><a href="https://github.com/rishu08"><img src="https://github.com/rishu08.png" width="30" /></a><a href="https://github.com/roopbiswas"><img src="https://github.com/roopbiswas.png" width="30" /></a><a href="https://github.com/WerWolv"><img src="https://github.com/WerWolv.png" width="30" /></a><a href="https://github.com/rickdunkin"><img src="https://github.com/rickdunkin.png" width="30" /></a>
